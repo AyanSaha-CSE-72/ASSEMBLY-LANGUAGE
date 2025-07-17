@@ -1,4 +1,4 @@
-# 🧠 Assembly-Basics 
+ # 🧠 Assembly-Basics 
 
 Welcome to my **Assembly Language Basics** repository!  
 This repo contains simple and beginner-friendly assembly language codes for learning and practicing low-level programming. 🛠️
